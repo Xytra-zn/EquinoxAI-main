@@ -1,0 +1,8 @@
+pyrogram
+requests
+tgcrypto
+asyncio
+python-dotenv
+pymongo
+httpx
+telegraph
