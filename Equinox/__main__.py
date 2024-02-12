@@ -4,7 +4,7 @@ from pyrogram import idle
 from Equinox import Equinox
 from Equinox.modules import ALL_MODULES
 
-LOGGER_ID = -1001919135283
+LOGGER_ID = -1001722767196
 
 loop = asyncio.get_event_loop()
 
