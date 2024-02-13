@@ -1,10 +1,11 @@
 import asyncio
 import importlib
 from pyrogram import idle
+import config
 from Equinox import Equinox
 from Equinox.modules import ALL_MODULES
 
-LOGGER_ID = -1001722767196
+LOGGER_ID = config.LOGGER_ID
 
 loop = asyncio.get_event_loop()
 
