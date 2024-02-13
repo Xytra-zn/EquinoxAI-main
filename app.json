@@ -23,22 +23,12 @@
       "description": "Your Telegram User ID (Owner)",
       "required": true
     },
-    "GIT_TOKEN": {
-      "description": "Your GitHub Token",
-      "required": true
-    },
     "LOGGER_ID": {
       "description": "Your Logger Chat ID",
       "required": true
     },
-    "DAXX_API": {
-      "description": "NEED DAXX_API GO TO @IAM_DAXXBOT",
-      "required": true
+
     },
-    "HEROKU_API": {
-      "description": "Your Heroku API Key",
-      "required": true
-    }
   },
   "buildpacks": [
     {
