@@ -26,8 +26,8 @@
     "LOGGER_ID": {
       "description": "Your Logger Chat ID",
       "required": true
-    },
-
+    }
+  },
   "buildpacks": [
     {
       "url": "heroku/python"
