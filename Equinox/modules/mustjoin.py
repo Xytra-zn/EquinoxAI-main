@@ -5,7 +5,7 @@ from Equinox import Equinox as app
 
 #--------------------------
 
-MUST_JOIN = "EquinoxBots"
+MUST_JOIN = "Universaltestgroup"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
